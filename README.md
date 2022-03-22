@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, my name is Gustavo Medina, Student of Universidad Austral de Chile in the Ingeniería Civil Informática carreer. 👋
+
+##You can find me in...
+
+* gustavo.medina@alumnos.uach.cl
+* gustavomedina512@gmail.com
+* Other social media as Gostatsog (Yes, a somewhat disappointing name... but nobody would want to steal it from me (big pp)).
+
+## All my repositories are part of my years of studying at UACH, plus a project in 14K as part of my first internship. (those last ones I can't make public for obvious reasons)
+
+## That's all for me, have a day!!
 
 <!--
 **Gostatsog/Gostatsog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
