@@ -1,6 +1,6 @@
 ## Hi there, my name is Gustavo Medina, Student of Universidad Austral de Chile in the Ingeniería Civil Informática carreer. 👋
 
-##You can find me in...
+## You can find me in...
 
 * gustavo.medina@alumnos.uach.cl
 * gustavomedina512@gmail.com
