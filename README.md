@@ -6,7 +6,7 @@
 * gustavomedina512@gmail.com
 * Other social media as Gostatsog (Yes, a somewhat disappointing name... but nobody would want to steal it from me (big pp)).
 
-## All my repositories are part of my years of studying at UACH, plus a project in 14K as part of my first internship. (those last ones I can't make public for obvious reasons)
+## All my repositories are part of my years of studying at UACH, plus a project as a react native and raspberry pi programmer in 14K as part of my first internship. (those last ones I can't make public for obvious reasons)
 
 ## That's all for me, have a day!!
 
